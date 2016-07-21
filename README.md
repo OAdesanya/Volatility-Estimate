@@ -1,1 +1,1 @@
-# Volatility-Estimate
+The stock repo include files and codes used to analyze stock volatility for CO stocks from 2007 till present. The activities in the repo include downloading the data,calculate volatility measure, log returns calculation, calculate volatility for three  decay factors, and  plot the results with the different decay factors.
